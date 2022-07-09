@@ -517,6 +517,22 @@ img {
 	background-color: #620031;
 }
 /*----------------------------------------body-styles---------------------------------------*/
+/*new change*/
+#wrapper{
+	display: flex;
+   align-items: center;
+   
+   justify-content: center;
+   
+   margin: auto;
+   height: 100vh;
+   
+
+}
+#wrapper h2{
+	font-size: 100%;
+	
+}
 #body.about .header {
 	background: url(../images/bg-about.jpg) no-repeat center top #000000;
 	margin: 0;
